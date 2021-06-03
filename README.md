@@ -2,11 +2,11 @@
 
 ## I am Anay, Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Anay Joshi, currently pursuing my B.Tech in computer science from [MGM's JNEC](https://www.jnec.org/). I have keen interest in software development and competitve programming.
+I am Anay Joshi, currently pursuing my B.Tech in computer science from [MGM's JNEC](https://www.jnec.org/). I have keen interest in software development, open source and competitve programming.
 
-![GitHub Follow](https://img.shields.io/github/followers/anayjoshi1608.svg?style=social&label=Follow)
-![GitHub Star](https://img.shields.io/github/stars/anayjoshi1608?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anayjoshi1608.anayjoshi1608)
+![GitHub Follow](https://img.shields.io/github/followers/anay-joshi.svg?style=social&label=Follow)
+![GitHub Star](https://img.shields.io/github/stars/anay-joshi?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anay-joshi.anay-joshi)
 
 
 <br/>
@@ -47,17 +47,17 @@ I am Anay Joshi, currently pursuing my B.Tech in computer science from [MGM's JN
 - 💬 Ask me about **Software Development and Python related stuff**.
 
 
-<img align="left" alt="Anay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anayjoshi1608&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" />
+<img align="left" alt="Anay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anay-joshi&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" />
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anayjoshi1608)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anay-joshi)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 
 <br />
 
 
-[![Anay's github activity graph](https://activity-graph.herokuapp.com/graph?username=anayjoshi1608&theme=xcode)](https://git.io/anayjoshi1608)
+[![Anay's github activity graph](https://activity-graph.herokuapp.com/graph?username=anay-joshi&theme=xcode)](https://git.io/anay-joshi)
 
 
 
