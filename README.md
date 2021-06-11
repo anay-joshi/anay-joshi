@@ -21,23 +21,23 @@ I am Anay Joshi, currently pursuing my B.Tech in computer science from [MGM's JN
 
 ⚙ Tools and Technologies
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=c)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=Bash)
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=Google-gcp)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
-![Latex](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![C/C++](https://img.shields.io/badge/-C/C++-333333?style=for-the-badge&logo=c)
+![Django](https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=Django)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=PostgreSQL)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=for-the-badge&logo=sqlite)
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=for-the-badge&logo=Heroku)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazon-aws)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=for-the-badge&logo=jupyter)
+![Latex](https://img.shields.io/badge/-Latex-333333?style=for-the-badge&logo=latex)
+<!-- ![Latex](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex) -->
 
 
 - 🔭 I’m currently working on improving my Problem Solving Skills.
