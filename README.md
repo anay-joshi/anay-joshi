@@ -45,5 +45,6 @@ I am currently pursuing my B.Tech in computer science from [MGM's JNEC](https://
 
 [![Anay's github activity graph](https://activity-graph.herokuapp.com/graph?username=anay-joshi&theme=xcode)](https://git.io/anay-joshi)
 
-
-
+<p align="center">
+  <img src="https://github.com/anay-joshi/anay-joshi/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
