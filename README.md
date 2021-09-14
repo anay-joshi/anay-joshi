@@ -14,7 +14,7 @@ I am currently pursuing my B.Tech in computer science from [MGM's JNEC](https://
 
 [![Linkedin Badge](https://img.shields.io/badge/-anayanupjoshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anayanupjoshi/)](https://www.linkedin.com/in/anayanupjoshi/)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anayjoshi168@gmail.com)](mailto:anayjoshi168@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Anay's_Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://anay-joshi-portfolio.netlify.app/)](https://anay-joshi-portfolio.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/-Anay's_Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://anayjoshi.tech/)](https://anayjoshi.tech/)
 [![Youtube Badge](https://img.shields.io/badge/-Coders_Life-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/coderslife)](https://www.youtube.com/coderslife)
 
 
