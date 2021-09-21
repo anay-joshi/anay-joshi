@@ -29,7 +29,7 @@ I am currently pursuing my B.Tech in computer science from [MGM's JNEC](https://
 - 🌱 I’m currently learning React JS.
 - 👯 I’m looking to collaborate on Django.
 - 🤔 I’m looking for help with Competitive Programming.
-- ⚡ Download my Cv : [Download CV](https://drive.google.com/file/d/1Eh0E6QvLbD-EIzK2pbtzx9GE-9qGLe4K/view?usp=sharing)
+- 📜 Myy Resume : [Download Resume](https://drive.google.com/file/d/1_hq7b2ykpR_eEYgAyZKGt7xQqhcZ6cVG/view?usp=sharing)
 - 💬 Ask me about **Software Development and Python related stuff**.
 
 
