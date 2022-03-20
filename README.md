@@ -33,7 +33,7 @@ I am currently pursuing my B.Tech in computer science from [MGM's JNEC](https://
 - 💬 Ask me about **Software Development and Python related stuff**.
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anay-joshi&show_icons=true&theme=dark&locale=en" alt="anay-joshi" /></p>
+<img align="left" alt="Anay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anay-joshi&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anay-joshi)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
