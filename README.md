@@ -29,8 +29,7 @@ I am currently pursuing my B.Tech in computer science from [MGM's JNEC](https://
 - 🌱 I’m currently learning React JS.
 - 👯 I’m looking to collaborate on Django.
 - 🤔 I’m looking for help with Competitive Programming.
-- 📜 Myy Resume : [Download Resume](https://drive.google.com/file/d/1_hq7b2ykpR_eEYgAyZKGt7xQqhcZ6cVG/view?usp=sharing)
-- 💬 Ask me about **Software Development and Python related stuff**.
+- 📜 Myy Resume : [Download Resume](https://drive.google.com/file/d/1ymhL6UUjcNDmP46joqBp971MNhdXehV5/view)
 
 
 <img align="left" alt="Anay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anay-joshi&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" />
