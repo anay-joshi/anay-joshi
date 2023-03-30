@@ -1,7 +1,7 @@
 
 ## Hey there, I am Anay! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am currently pursuing my B.Tech in computer science from [MGM's JNEC](https://www.jnec.org/). I have keen interest in software development, open source and competitve programming.
+I am Software Engineer working in Dell.
 
 ![GitHub Follow](https://img.shields.io/github/followers/anay-joshi.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/anay-joshi?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
