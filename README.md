@@ -46,12 +46,6 @@ I am Software Engineer working in Dell.
       <br>Django
     </td>
     <td align="center" width="96">
-      <a href="https://flask.palletsprojects.com/">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="48" height="48" alt="Flask" />
-      </a>
-      <br>Flask
-    </td>
-    <td align="center" width="96">
       <a href="https://www.w3.org/html/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
       </a>
